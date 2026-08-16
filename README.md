@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Satendra Jha
 
-<!--
-**Satendra-459/Satendra-459** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Web Developer | BCA Student
 
-Here are some ideas to get you started:
+I'm a passionate developer who enjoys building responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 BCA Student at Guru Kashi University
+- 💻 Interested in Full Stack Web Development
+- 🌱 Currently learning React, Node.js and Python
+- 📊 Interested in Data Analytics
+- 🔧 Love building projects and learning new technologies
+
+### 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Python
+- C / C++
+- Node.js
+- MySQL
+- MongoDB
+- Git & GitHub
+
+### 📂 Projects
+
+- 🎮 LUGX Gaming Website
+- 🌐 Personal Portfolio Website
+- ❤️ Love Animation
+- 🎯 Number Guessing Game
+- 🧮 Simple Arithmetic Calculator
+- ❌ Tic-Tac-Toe Game
+
+### 📫 Connect With Me
+
+- LinkedIn: [Satendra Jha](https://www.linkedin.com/in/satendra-jha-933/)
+
+---
+
+⭐ Thanks for visiting my profile!
