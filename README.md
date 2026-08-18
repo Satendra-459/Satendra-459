@@ -102,7 +102,7 @@ Power BI      ██████████░░░░░░░░░░░░
 ### 📊 Contribution Overview
 
 <p align="center">
-  <img src="./assets/full_dashboard.gif" width="100%"/>
+  <img src="full_dashboard.gif" width="100%"/>
 </p>
 
 ---
@@ -113,6 +113,9 @@ Power BI      ██████████░░░░░░░░░░░░
   <a href="https://www.linkedin.com/in/satendra-jha-933139380" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:jhasatendra906@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">⭐ Thanks for visiting my profile — feel free to explore my repositories!</p>
+<p align="center">⭐ I'm actively looking for Full Stack Web Developer  internship / entey-level opportunities . If you're hiring or just want to talk data , reach out !</p>
